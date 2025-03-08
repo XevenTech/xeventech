@@ -1,18 +1,13 @@
 ![MasterHead](https://github.com/XevenTech/xeventech/blob/main/banner.png?raw=true)
-<h1 align="center">Hi 👋, I'm John Doe</h1>
-<h3 align="center">A passionate frontend developer from XYZ</h3>
+<h1 align="center">Hi 👋, Welcome to Xeven Tech!</h1>
 <img align="right" width="400" src="https://github.com/XevenTech/xeventech/blob/main/programming.gif?raw=true">
-- 🔭 I’m currently working on **Web App Development**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@XevenTechYT](https://www.youtube.com/@XevenTechYT)
+- 👨‍💻 All of our projects are available at [https://www.youtube.com/@XevenTechYT](https://www.youtube.com/@XevenTechYT)
 
-- 📫 How to reach me **johndoe@gmail.com**
+- 📫 How to reach me **businessqueries.xeventech@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/company/xeventech](https://www.linkedin.com/company/xeventech)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Subscribe Us on YouTube:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/company/xeventech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/xeventech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@xeventechyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xeventechyt" height="30" width="40" /></a>
 </p>
 
