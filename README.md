@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/XevenTech/xeventech/blob/main/Banner.jpg?raw=true)
+![MasterHead](https://github.com/XevenTech/xeventech/blob/main/Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm John Doe</h1>
 <h3 align="center">A passionate frontend developer from XYZ</h3>
 <img align="right" width="400" src="https://github.com/XevenTech/xeventech/blob/main/programming.gif?raw=true">
