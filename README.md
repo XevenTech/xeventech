@@ -5,10 +5,8 @@
 - 👨‍💻 All of our projects are available at [https://www.youtube.com/@XevenTechYT](https://www.youtube.com/@XevenTechYT)
 
 - 📫 How to reach Us **businessqueries.xeventech@gmail.com**
-
-<h3 align="left">Subscribe Us on YouTube:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@xeventechyt?sub_confirmation=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xeventechyt" height="30" width="40" /></a>
+<h3 align="left">Subscribe Us on YouTube:<a href="https://www.youtube.com/@xeventechyt?sub_confirmation=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xeventechyt" height="30" width="40" /></a></h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeventech&show_icons=true&locale=en&theme=tokyonight" alt="xeventech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=xeventech&&theme=tokyonight" alt="xeventech" /></p>
