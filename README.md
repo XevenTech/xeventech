@@ -6,7 +6,7 @@
 
 - 📫 How to reach Us **businessqueries.xeventech@gmail.com**
 <p align="left">
-<h3 align="left">Subscribe Us on YouTube:<a href="https://www.youtube.com/@xeventechyt?sub_confirmation=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xeventechyt" height="30" width="40" /></a></h3>
+<h3 align="left">Subscribe Us on YouTube:<a href="https://www.youtube.com/@xeventechyt?sub_confirmation=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xeventechyt" height="30" width="40" />XevenTech</a></h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
