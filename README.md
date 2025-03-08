@@ -8,7 +8,7 @@
 
 <h3 align="left">Subscribe Us on YouTube:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@xeventechyt?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xeventechyt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@xeventechyt?sub_confirmation=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xeventechyt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
