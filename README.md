@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of our projects are available at [https://www.youtube.com/@XevenTechYT](https://www.youtube.com/@XevenTechYT)
 
-- 📫 How to reach me **businessqueries.xeventech@gmail.com**
+- 📫 How to reach Us **businessqueries.xeventech@gmail.com**
 
 <h3 align="left">Subscribe Us on YouTube:</h3>
 <p align="left">
