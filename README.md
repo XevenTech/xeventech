@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/XevenTech/xeventech/blob/main/banner.png?raw=true)
-<h1 align="center">Hi 👋, Welcome to Xeven Tech!</h1>
-<h2 align="center">Source Code Library</h2>
+<h1 align="center">Hi 👋, Welcome to XevenTech's Source Code Library!</h1>
 <img align="right" width="400" src="https://github.com/XevenTech/xeventech/blob/main/coding.gif?raw=true">
 
 - 👨‍💻 All of our projects are available at [https://www.youtube.com/@XevenTechYT](https://www.youtube.com/@XevenTechYT)
