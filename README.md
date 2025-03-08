@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeventech&show_icons=true&locale=en&theme=tokyonight" alt="xeventech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=xeventech&theme=tokyonight" alt="xeventech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=xeventech&&theme=tokyonight" alt="xeventech" /></p>
