@@ -20,6 +20,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeventech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="xeventech" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeventech&show_icons=true&locale=en&theme=tokyonight" alt="xeventech" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xeventech&show_icons=true&locale=en&theme=tokyonight" alt="xeventech" /></p>
 
