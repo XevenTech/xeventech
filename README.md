@@ -16,6 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <br><br>
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=xeventech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="xeventech" /><br><br>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=xeventech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="xeventech" /><br><br><br>
 <img  src="https://github-readme-stats.vercel.app/api?username=xeventech&show_icons=true&locale=en&theme=tokyonight" alt="xeventech" />
 </p>
