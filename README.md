@@ -12,7 +12,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  ![Technologies Used](https://skillicons.dev/icons?i=html,css,javascript,php,ts,react,tailwind,mysql,mongodb)
+  ![Technologies Used](https://skillicons.dev/icons?i=html,css,javascript,php,ts)
+  ![Technologies Used](https://skillicons.dev/icons?i=react,angular,tailwind,mysql,mongodb)
   
 <br><br>
 <p align="left">
